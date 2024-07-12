@@ -2,20 +2,22 @@
 
 😄 Pronouns: he/him
 
-🔭 I'm making tools to help worldgen datapack creation for Minecraft.
-
-:arrow_right: For my tools and projects see https://jacobsjo.eu
-
-:coin: [Sponsor Me](https://github.com/sponsors/jacobsjo)
-
-### Education
+⚡ I'm looking for ML / CV Jobs
 
 🌱 Computer Science BSc. @TU-Berlin
 
 🌱 Robotics, Cognition, Intelligence MSc. @TUM
 
-
 :arrow_right: For my personal blog see https://jochenjacobs.eu
+
+
+### Personal Projects:
+
+🔭 I'm making tools to help worldgen datapack creation for Minecraft.
+
+:arrow_right: For my tools and projects see https://jacobsjo.eu
+
+:coin: [Sponsor Me](https://github.com/sponsors/jacobsjo)
 
 <!--
 **jacobsjo/jacobsjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
