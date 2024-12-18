@@ -19,6 +19,8 @@
 
 :coin: [Sponsor Me](https://github.com/sponsors/jacobsjo)
 
+:coin: [Buy me a coffee on Ko-Fi](https://ko-fi.com/jacobsjo)
+
 <!--
 **jacobsjo/jacobsjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
